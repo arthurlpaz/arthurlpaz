@@ -9,7 +9,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurlpaz&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Arthur da Paz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlpaz&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurlpaz&" alt="arthur" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=arthurlpaz&theme=github-dark-blue&hide_border=true&border_radius=5)](https://git.io/streak-stats" alt="arthur" /></p>
 
 </div>
 
