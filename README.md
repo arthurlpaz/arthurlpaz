@@ -8,17 +8,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurlpaz&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Arthur da Paz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlpaz&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=arthurlpaz&theme=github-dark-blue&hide_border=true&border_radius=5)](https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com?user=arthurlpaz&theme=github-dark-blue&hide_border=true&border_radius=5&card_width=888)](https://git.io/streak-stats)" alt="arthur" /></p>
-
 </div>
-
-
-<div align="center"> 
-<a href="https://instagram.com/arthulpaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:arthurpcristovao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/arthurlincolndapaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
  
  ### Main skills:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
