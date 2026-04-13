@@ -27,13 +27,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurlpaz&bg_color=070e1c&color=89a9bd&line=4682B4&point=4ba3c7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurlpaz&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Arthur da Paz github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlpaz&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=arthurlpaz&theme=tokyonight&hide_border=true&ring=4682B4&fire=4682B4&currStreakLabel=4682B4" alt="Arthur's streak stats" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=arthurlpaz&theme=onestar&no-frame=true&no-bg=true&row=1&column=4" alt="Arthur's trophies" />
 </div>
 
 ---
